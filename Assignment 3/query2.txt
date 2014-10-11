@@ -1,0 +1,4 @@
+use userlogin;
+show tables;
+SELECT * FROM user;
+
