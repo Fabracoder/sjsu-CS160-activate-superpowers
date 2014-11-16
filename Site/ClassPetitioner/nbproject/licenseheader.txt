@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This project is made by team Activate for Ron Mak's CS160 (fall 2014) class at SJSU
+${licensePrefix}
+${licensePrefix} 
+<#if licenseLast??>
+${licenseLast}
+</#if>
